@@ -1,4 +1,6 @@
 
+#转载#亲测可用
+
 # 说明
 - 来自网友基于 [wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker "wxappUnpacker") 改进的开源项目。
 
